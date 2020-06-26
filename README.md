@@ -1,4 +1,5 @@
 # Mario
+## v1.0
 First level of 2D Mario game, done with Unity
 
 1. Fixed small code errors (Bracket '}' missing in function Update())
