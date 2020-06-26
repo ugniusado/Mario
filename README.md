@@ -9,4 +9,4 @@ First level of 2D Mario game, done with Unity
 
 2. Added a Rigibody 2D to the Player
 
-3. Assigned player transform to Player
+3. Assigned 'player transform' to Player
