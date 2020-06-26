@@ -18,7 +18,7 @@ Used tilemap to fill the missing parts such as(Window>2D>TilePallete):
 
 1. Ground
 
-2.Pipes
+2. Pipes
 
 3. Stairs
 
