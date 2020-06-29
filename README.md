@@ -26,7 +26,7 @@ https://prnt.sc/t75bcg
 
 ## v3.0
 
-Probably most chalenging one and most time consuming part of the task.
+Probably most challenging one and most time consuming part of the task.
 
 1. Firstly needed to update and create a new script for QuestionBlocks.cs, into InvisibleQuestionBlocks.cs
 
