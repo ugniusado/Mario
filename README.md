@@ -36,6 +36,20 @@ Probably most chalenging one and most time consuming part of the task.
 
 4. Removed sprite rendering from the invisible block.
 
+## v4.0 (v5.0)
+
+Did not succeed creating goal pole, so i tried makin the UI, which I succeeded
+
+1.modified the code (ScoreManager.cs)
+
+2.Added TextMeshPro UI
+
+3.Generated Mario font asset, so the font would be usable with TextMeshPro
+
+4.Adjusted the canvas position in the game
+
+
+
 
 
 
