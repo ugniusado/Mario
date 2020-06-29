@@ -58,4 +58,4 @@ Although Mario did things he was supposed to do slide down the Pole and walk aro
 I tried phisically moving mario down the pole and around the castle using animation track and after I did not do it successfully I gave up on the fireworks animation aswell
 
 
-
+P.S. Also I did not fix the Mario moving animation, he was just rolling around, i did not even tried to make it right because the task was not asking for it
