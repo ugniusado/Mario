@@ -38,18 +38,24 @@ Probably most chalenging one and most time consuming part of the task.
 
 ## v4.0 (v5.0)
 
-Did not succeed creating goal pole, so i tried makin the UI, which I succeeded
+I tried makin the UI, which I succeeded
 
-1.modified the code (ScoreManager.cs)
+1. modified the code (ScoreManager.cs)
 
-2.Added TextMeshPro UI
+2. Added TextMeshPro UI
 
-3.Generated Mario font asset, so the font would be usable with TextMeshPro
+3. Generated Mario font asset, so the font would be usable with TextMeshPro
 
-4.Adjusted the canvas position in the game
+4. Adjusted the canvas position in the game
+
+## v5.0 (v4.0)
+
+Did not succeed creating goal pole using Timeline, could not find the way to connect the Recorded Timeline with the actual game
+
+Although Mario did things he was supposed to do slide down the Pole and walk around the Castle, i did not succeed conecting the game and the clip track
 
 
-
+I tried phisically moving mario down the pole and around the castle using animation track and after I did not do it successfully I gave up on the fireworks animation aswell
 
 
 
