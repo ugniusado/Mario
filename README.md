@@ -40,13 +40,13 @@ Probably most chalenging one and most time consuming part of the task.
 
 Did not succeed creating goal pole, so i tried makin the UI, which I succeeded
 
-1.modified the code (ScoreManager.cs)
+1. modified the code (ScoreManager.cs)
 
-2.Added TextMeshPro UI
+2. Added TextMeshPro UI
 
-3.Generated Mario font asset, so the font would be usable with TextMeshPro
+3. Generated Mario font asset, so the font would be usable with TextMeshPro
 
-4.Adjusted the canvas position in the game
+4. Adjusted the canvas position in the game
 
 
 
