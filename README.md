@@ -23,3 +23,19 @@ Used tilemap to fill the missing parts such as(Window>2D>TilePallete):
 3. Stairs
 
 https://prnt.sc/t75bcg
+
+## v3.0
+
+Probably most chalenging one and most time consuming part of the task.
+
+1. Firstly needed to update and create a new script for QuestionBlocks.cs, into InvisibleQuestionBlocks.cs
+
+2. Deleted the QuestionBlock script of the invisible block and replaced it with InvisibleQuestionBlocks.cs, added prefab of the coin
+
+3. Added colidder to trigger, when player hits the block.
+
+4. Removed sprite rendering from the invisible block.
+
+
+
+
