@@ -1,4 +1,4 @@
 # Mario
 
 
-## Progress on all tasks is described in branches
+## Progress on all tasks is described in the branches
